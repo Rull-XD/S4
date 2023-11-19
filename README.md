@@ -10,9 +10,8 @@ $pkg install python
 
 $pkg install git
 
-$git clone https://github(*)com/Rull-XD/S4
+$git clone https://github.com/Rull-XD/S4
 
-(*) Ganti (.)
 
 #RUN
 
